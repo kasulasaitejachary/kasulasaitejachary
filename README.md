@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kasulasaitejachary
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Java Development
+- 👀 I’m interested in Data analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
