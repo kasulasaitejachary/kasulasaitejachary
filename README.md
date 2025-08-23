@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kasulasaitejachary
 - 👀 I’m interested in Data analyst
 - 💞️ I’m looking to collaborate on Data analyst & Power BI.
-- 📫 How to reach me --> saitejalkasula97@gmail.com
+- 📫 How to reach me --> saitejakasula97@gmail.com
 
 <!---
 kasulasaitejachary/kasulasaitejachary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
